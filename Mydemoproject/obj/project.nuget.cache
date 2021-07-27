@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "cYDOvRWiK4bpIOnKfd+gTbTrSCBTiGlqNutqLno1alJTgYKFCYPyxEBlKPPparYkxR3ZmBfy5CGlqxWG73xSgw==",
+  "dgSpecHash": "Lxr/tf2giTcMgBfrxZ9hYE5RzFgKI6YwG3oSxrayrRVa4i20+LRvXBz6LPbhFESpdxGf5zC9Ae69x4oWw0IxyA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Raghav\\Desktop\\DotNet-code\\Mydemoproject\\Mydemoproject\\Mydemoproject.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Raghav\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\3.3.2\\microsoft.codeanalysis.fxcopanalyzers.3.3.2.nupkg.sha512",
+    "C:\\Users\\Raghav\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\3.3.2\\microsoft.codeanalysis.versioncheckanalyzer.3.3.2.nupkg.sha512",
+    "C:\\Users\\Raghav\\.nuget\\packages\\microsoft.codequality.analyzers\\3.3.2\\microsoft.codequality.analyzers.3.3.2.nupkg.sha512",
+    "C:\\Users\\Raghav\\.nuget\\packages\\microsoft.netcore.analyzers\\3.3.2\\microsoft.netcore.analyzers.3.3.2.nupkg.sha512",
+    "C:\\Users\\Raghav\\.nuget\\packages\\microsoft.netframework.analyzers\\3.3.2\\microsoft.netframework.analyzers.3.3.2.nupkg.sha512"
+  ],
   "logs": []
 }

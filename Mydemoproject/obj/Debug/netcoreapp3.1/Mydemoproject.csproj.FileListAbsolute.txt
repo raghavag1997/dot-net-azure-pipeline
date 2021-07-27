@@ -35,3 +35,4 @@ C:\Users\Raghav\Desktop\DotNet-code\Mydemoproject\Mydemoproject\obj\Debug\netcor
 C:\Users\Raghav\Desktop\DotNet-code\Mydemoproject\Mydemoproject\obj\Debug\netcoreapp3.1\Mydemoproject.pdb
 C:\Users\Raghav\Desktop\DotNet-code\Mydemoproject\Mydemoproject\obj\Debug\netcoreapp3.1\Mydemoproject.genruntimeconfig.cache
 C:\Users\Raghav\Desktop\DotNet-code\Mydemoproject\Mydemoproject\obj\Debug\netcoreapp3.1\Mydemoproject.csproj.CopyComplete
+C:\Users\Raghav\Desktop\DotNet-code\Mydemoproject\Mydemoproject\obj\Debug\netcoreapp3.1\Mydemoproject.GeneratedMSBuildEditorConfig.editorconfig
